@@ -1,4 +1,2 @@
-a.cpp
-a.out
-b.cpp
-
+*.out
+*.txt
